@@ -6,10 +6,32 @@
 .navigation a.logo:hover{
     color: #2176FF;
     font-size: 35px;
-    text-shadow: 2px 2px;
+    text-shadow: 1px 1px;
 }
 
 .navigation a:active{
     font-weight: 900;
 }
 
+.banner a.btn {
+    text-transform: uppercase;
+    font-size: 32px;
+    font-family: 'Amatic SC', sans-serif;
+    border: 2px solid #2176FF;
+    color: #fff;
+    padding: 20px;
+}
+
+.banner a.btn:hover {
+    text-transform: uppercase;
+    font-size: 34px;
+    font-family: 'Amatic SC', sans-serif;
+    font-weight: 900;
+    border: 4px solid #2176FF;
+    color: #fff;
+    padding: 20px;
+}
+
+.banner a.btn:active {
+    background-color: #2176FF;
+}
