@@ -1,0 +1,15 @@
+.navigation a:hover{
+    color: #2176FF;
+    font-size: 17px;
+}
+
+.navigation a.logo:hover{
+    color: #2176FF;
+    font-size: 35px;
+    text-shadow: 2px 2px;
+}
+
+.navigation a:active{
+    font-weight: 900;
+}
+
