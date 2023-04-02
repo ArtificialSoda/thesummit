@@ -1,3 +1,5 @@
+/* Navbar */
+
 .navigation a:hover{
     color: #2176FF;
     font-size: 17px;
@@ -13,6 +15,8 @@
     font-weight: 900;
 }
 
+/* Banner */
+
 .banner a.btn {
     text-transform: uppercase;
     font-size: 32px;
@@ -23,15 +27,32 @@
 }
 
 .banner a.btn:hover {
-    text-transform: uppercase;
     font-size: 34px;
-    font-family: 'Amatic SC', sans-serif;
     font-weight: 900;
     border: 4px solid #2176FF;
     color: #fff;
-    padding: 20px;
 }
 
 .banner a.btn:active {
     background-color: #2176FF;
 }
+
+/* Content (Description) */
+
+.description p a:visited {
+    color: #2176FF;
+}
+
+.description p a:hover {
+    font-weight: 600;
+}
+
+.description p a:active {
+    font-size: 20px;
+}
+
+a {
+    cursor: pointer;
+}
+
+
