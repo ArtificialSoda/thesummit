@@ -11,4 +11,4 @@ The goal is to improve the user experience of this ski lodge landing page. Curre
 
 Start date: April 1st, 2023
 
-End date: TBD
+End date: April 2nd, 2023
